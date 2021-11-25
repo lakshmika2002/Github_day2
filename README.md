@@ -1,7 +1,7 @@
 # commands:
 created a repository and used 
 
-git init
+git init      //(master)
 
 git status
 
