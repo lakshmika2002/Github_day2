@@ -1,0 +1,11 @@
+Hello Github
+I'm learning Github through APSSDC Workshop.
+pwd- present working directory
+cd - change directory
+ls -
+mkdir - 
+touch -
+li - 
+cat -
+git status -
+git init -
